@@ -221,10 +221,6 @@ Rodrigo leads the Pickaxe World Company and he is involved in all key decisions 
 
 Mauro is responsible for the day-to-day operations of Pickaxe World and its various tokens transactions. He works together with the CEO to develop and implement the company's overall strategy.
 
-## **Isac - CTO**
-
-Isac is responsible for the technology strategy of the company and for ensuring that the technology roadmap is aligned with the business goals. He works together with the CEO and the COO to ensure that the technology investments are in line with the company's overall strategies.
-
 #
-# **Patners**
+# **Partners**
 We are looking for partners to invest in our new game, which can be enjoyed by people who love play-to-earn and RPGs games.
