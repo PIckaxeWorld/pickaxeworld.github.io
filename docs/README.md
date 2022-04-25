@@ -209,7 +209,7 @@ The endgame is to create a single application that players can use to interact w
 #
 # **Team**
 
-Pickaxe World is being developed by 3 expert software engineers who have already successfully worked on a lot of projects. In 2019 they started studying blockchain and play-to-earn games. Therefore they decided to create a play-to-earn game based on RPGs, which will offer their users the power to increase and evolve the elements (NFTs) inside the game. All artistic decisions are being made according to their artist partner.
+Pickaxe World is being developed by 2 expert software engineers who have already successfully worked on a lot of projects. In 2019 they started studying blockchain and play-to-earn games. Therefore they decided to create a play-to-earn game based on RPGs, which will offer their users the power to increase and evolve the elements (NFTs) inside the game. All artistic decisions are being made according to their artist partner.
 
 The founding team: 
 
